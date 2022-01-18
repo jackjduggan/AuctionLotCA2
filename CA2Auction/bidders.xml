@@ -1,0 +1,14 @@
+<object-stream>
+  <com.example.ca2auction.DataStructures.linkedlistBoys>
+    <head>
+      <contents class="com.example.ca2auction.DataTypes.bidder">
+        <name>Jack</name>
+        <address1>Test Road</address1>
+        <address2>Test Town</address2>
+        <number>12345678</number>
+        <email>killian@test.com</email>
+      </contents>
+      <outer-class reference="../.."/>
+    </head>
+  </com.example.ca2auction.DataStructures.linkedlistBoys>
+</object-stream>

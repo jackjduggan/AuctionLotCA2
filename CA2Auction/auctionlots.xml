@@ -1,0 +1,24 @@
+<object-stream>
+  <com.example.ca2auction.DataStructures.linkedlistBoys>
+    <head>
+      <next>
+        <contents class="com.example.ca2auction.DataTypes.auctionLot">
+          <name>Ring</name>
+          <description>Vintage gold</description>
+          <type>Apparal</type>
+          <origindate>1950</origindate>
+          <askingprice>1000</askingprice>
+        </contents>
+        <outer-class reference="../../.."/>
+      </next>
+      <contents class="com.example.ca2auction.DataTypes.auctionLot">
+        <name>Necklace</name>
+        <description>Vintage gold</description>
+        <type>Apparal</type>
+        <origindate>1950</origindate>
+        <askingprice>1000</askingprice>
+      </contents>
+      <outer-class reference="../.."/>
+    </head>
+  </com.example.ca2auction.DataStructures.linkedlistBoys>
+</object-stream>
